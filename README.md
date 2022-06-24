@@ -1,6 +1,6 @@
-# # Certificados-DIO :school:
+# ## Certificados-DIO :school:
 
-Certificados de Conclusão da Digital Innovation One
+**Links dos Certificados de Conclusão da Digital Innovation One**
 
 - [01 - Conheça as Oportunidades da DIO - 30/05/2022](https://github.com/robertorevilla/Certificados-DIO/blob/main/01%20-%20Conheca%20as%20Oportunidades%20da%20DIO.pdf)
 - [02 - Seja Protagonista Neste Bootcamp - 30/05/2022](https://github.com/robertorevilla/Certificados-DIO/blob/main/02%20-%20Seja%20Protagonista%20Neste%20Bootcamp.pdf)
