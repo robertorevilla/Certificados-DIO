@@ -10,4 +10,4 @@
 - [06 - Módulo I - Conteúdo de Abertura - 20/06/2022](https://github.com/robertorevilla/Certificados-DIO/blob/main/06%20-%20Modulo%20I%20Conteudo%20de%20Abertura.pdf)
 - [07 - Introdução ao Git e ao GitHub - 22/06/2022](https://github.com/robertorevilla/Certificados-DIO/blob/main/07%20-%20Introducao%20ao%20Git%20e%20ao%20GitHub.pdf)
 - [08 - Conteúdo - 22/06/2022](https://github.com/robertorevilla/Certificados-DIO/blob/main/08%20-%20Conteudo.pdf)
-- [09 - Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso - 24/06/2022]()
+- [09 - Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso - 24/06/2022](https://github.com/robertorevilla/Certificados-DIO/blob/main/09%20-%20Criando%20seu%20Primeiro%20Repositorio%20no%20GitHub%20Para%20Compartilhar%20Seu%20Progresso.pdf)
