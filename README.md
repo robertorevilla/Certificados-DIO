@@ -1,4 +1,4 @@
-# #Certificados-DIO :school:
+# Certificados-DIO :school:
 
 **Links dos Certificados de Conclusão da Digital Innovation One**
 
